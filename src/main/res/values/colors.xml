@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="buttonColor">#BB86FC</color>
+    <color name="background">#121212</color>
+    <color name="textColor">#FFFFFF</color>
+    <color name="hintColor">#B0BEC5</color>
+    <color name="accentColor">#FF5722</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+    <color name="secondaryAccentColor">#03DAC5</color>
+    <color name="primary">#FF5722</color> <!-- Orange color -->
+    <color name="primaryText">#212121</color> <!-- Dark text color -->
+    <color name="mi_blue">#005687</color> <!-- Mumbai Indians Blue -->
+
+    <!-- Chennai Super Kings -->
+    <color name="csk_yellow">#FFB81C</color> <!-- Chennai Super Kings Yellow -->
+
+    <!-- Delhi Capitals -->
+    <color name="dc_blue">#1E4C6A</color> <!-- Delhi Capitals Blue -->
+
+    <!-- Royal Challengers Bangalore -->
+    <color name="rcb_red">#E41E2B</color> <!-- Royal Challengers Bangalore Red -->
+
+    <!-- Kolkata Knight Riders -->
+    <color name="kkr_purple">#512D6D</color> <!-- Kolkata Knight Riders Purple -->
+    <color name="logoutColor">#FF9800</color>  <!-- Example color (Orange) -->
+
+
+
+</resources>
